@@ -1,22 +1,15 @@
-# Luki STICKERS
+# Luki Stickers — archivio precedente
 
-App web per creare, trasformare e organizzare sticker.
+La versione principale dell’app è nel portale Lukiapp:
 
-## Prova l'app
+**https://sartoriluca65.github.io/stickers/**
 
-[Apri Luki STICKERS](https://sartoriluca65.github.io/LukiStickers/)
+Sorgenti principali: https://github.com/sartoriluca65/sartoriluca65.github.io/tree/main/stickers
 
-## Funzioni
+Questo repository conserva la versione precedente; non è più la copia da aggiornare. Il vecchio indirizzo rimanda alla versione principale.
 
-- Crea sticker da foto e da tavole già composte.
-- Applica direzioni artistiche e rimuove lo sfondo sul dispositivo.
-- Organizza sticker in pacchetti, esporta PNG e prepara sticker per WhatsApp, TikTok e Instagram.
-- Supporta immagini HEIC/HEIF.
+## Dati già salvati
 
-I pacchetti, gli sticker e le preferenze restano nel browser dell'utente. Le immagini personali non vengono caricate nel repository.
+I dati del browser appartengono al percorso in cui sono stati inseriti e non vengono migrati dal reindirizzamento. Per esportarli dalla versione precedente aprire https://sartoriluca65.github.io/LukiStickers/archivio.html, eseguire il backup dall’app e importarlo nella versione principale se il formato è compatibile. Conservare il backup originale.
 
-La generazione di nuove illustrazioni con IA è facoltativa e richiede una chiave API Gemini. Gli abbonamenti consumer di ChatGPT, Copilot o Gemini non autorizzano automaticamente un'app esterna a usare i rispettivi modelli. Gli effetti locali restano disponibili senza collegare un servizio AI.
-
-## Sviluppo
-
-Apri `index.html` tramite un server statico. Il codice del Worker in `worker/index.js` è mantenuto come riferimento per l'endpoint IA ospitato separatamente.
+Il codice precedente resta disponibile per confronto e recupero delle differenze.
